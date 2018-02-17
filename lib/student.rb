@@ -1,9 +1,9 @@
 class Student
   def hello
-    return "Hey there! I'm so excited to learn stuff.\n"
+    puts "Hey there! I'm so excited to learn stuff."
   end
 
   def raise_hand
-    return "Pick me!\n"
+    puts "Pick me!"
   end
 end
